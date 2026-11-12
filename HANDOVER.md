@@ -6,3 +6,4 @@
 - **Release notes:** v1.0 release notes are being published and linked from the handover record (tracked in sub-issue "Publish v1.0 release notes").
 - **Audit trail:** this repository (mcpmark-eval-liuhezi/handover-audit-2026) is the single auditable record of the handover; the "Add handover summary" pull request merges this summary into the default branch (main).
 - **Incoming owner:** HANDOVER.md at the repository root is the handoff pointer; review sub-issues #7, #8, and #9 for open threads.
+- **Merged commit:** once this pull request is merged into main, the merge commit SHA will be recorded as a permanent pointer on parent issue #6 ("Content handover checklist").
